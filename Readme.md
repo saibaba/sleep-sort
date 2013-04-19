@@ -1,4 +1,4 @@
-"!https://travis-ci.org/saibaba/sleep-sort.png!":https://travis-ci.org/[YOUR_GITHUB_USERNAME]/[YOUR_PROJECT_NAME]
+"!https://travis-ci.org/saibaba/sleep-sort.png!":https://travis-ci.org/saibaba/sleep-sort
 
 # Sleep Sort
 
