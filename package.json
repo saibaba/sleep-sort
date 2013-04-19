@@ -2,7 +2,7 @@
   "author": "Saibaba Telukunta <saibaba.telukunta@gmail.com> (http://rackspace.com)",
   "name": "sleep-sort",
   "description": "Implementation of the sleep-sort algorithm.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "repository": {
     "url": "https://github.com/saibaba/sleep-sort"
   },
@@ -18,5 +18,6 @@
   "optionalDependencies": {},
   "engines": {
     "node": "*"
-  }
+  },
+  "bin": { "sleep-sort": "./bin/sleep-sort" }
 }

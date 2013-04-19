@@ -1,0 +1,8 @@
+#!/usr/bin/env nodejs
+
+var sleepsort = require('../lib/main');
+
+var args = process.argv.slice(2);
+
+sleepsort(args, console.log);
+
