@@ -1,4 +1,5 @@
-"!https://travis-ci.org/saibaba/sleep-sort.png!":https://travis-ci.org/saibaba/sleep-sort
+[![Build Status](https://travis-ci.org/saibaba/sleep-sort.png)](https://travis-ci.org/saibaba/sleep-sort)
+
 
 # Sleep Sort
 
