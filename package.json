@@ -4,7 +4,7 @@
   "description": "Implementation of the sleep-sort algorithm.",
   "version": "0.0.1",
   "repository": {
-    "url": ""
+    "url": "https://github.com/saibaba/sleep-sort"
   },
   "main": "lib/main.js",
   "scripts": {
